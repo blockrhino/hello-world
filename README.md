@@ -11,7 +11,7 @@ Did you know that a small handful of half cooked kidney beans can have you blast
 Thats right, a small ammount of heat(About 180°F) will actually activate a kidney beans inner poison!
 
 
-         '@@@@@'                                  
+         '@@@@@'                                                                                                           
        +@+;''';'@@.                               
       @#''''''''''#@                              
      @''''''''''''''#.                            
@@ -52,6 +52,6 @@ Thats right, a small ammount of heat(About 180°F) will actually activate a kidn
                 .@@#'++++++++++++++++++++'#@@`    
                   ;@@@''+'+'++++++++'+'++@@@      
                     :@@@@#'+++++++++'+@@@@.       
-                       +@@@@@@@@@@@@@@@+          
-                          `;@@@@@@@+,             
+                       +@@@@@@@@@@@@@@@+                                                                                               .
+                          `;@@@@@@@+,                                                                                                  .
                                                   
